@@ -5,6 +5,8 @@
 - 📫 How to reach me ...
 justin.chan@tum.de
 
+Lena is my persona...
+
 <!---
 ET430-Rosenheim/ET430-Rosenheim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
