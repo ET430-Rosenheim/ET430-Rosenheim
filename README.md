@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Justin Chan (he/they) @ET430-Rosenheim
+- 👋 Hi, I’m @ET430-Rosenheim (they/she)
 - 👀 I’m interested in public transport, especially S-Bahn, buses and demand responsive transport
 - 🌱 I’m currently learning transportation systems
 - 💞️ I’m looking to collaborate on transport modelling and research on transit
 - 📫 How to reach me ...
 justin.chan@tum.de
+
+Electromobility will boom, but only if travel behavior changes will it achieve sustainability...
 
 Lena is my persona...
 
