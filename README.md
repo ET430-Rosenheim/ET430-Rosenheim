@@ -3,11 +3,9 @@
 - 🌱 I’m currently learning transportation systems
 - 💞️ I’m looking to collaborate on transport modelling and research on transit
 - 📫 How to reach me ...
-justin.chan@tum.de
+ge32caw@mytum.de
 
 Electromobility will boom, but only if travel behavior changes will it achieve sustainability...
-
-Lena is my persona...
 
 <!---
 ET430-Rosenheim/ET430-Rosenheim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
