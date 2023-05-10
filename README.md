@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @ET430-Rosenheim (they/she)
+- 👋 Hi, I’m @ET430-Rosenheim (she/her, sometimes also they/them)
 - 👀 I’m interested in public transport, especially S-Bahn, buses and demand responsive transport
 - 🌱 I’m currently learning transportation systems
 - 💞️ I’m looking to collaborate on transport modelling and research on transit
 - 📫 How to reach me ...
-ge32caw@mytum.de
+lena.chan@tum.de
 
 Electromobility will boom, but only if travel behavior changes will it achieve sustainability...
 
